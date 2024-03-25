@@ -9,10 +9,10 @@ const url = "https://www.runningwarehouse.com/Nike_Mens_Running_Shoes/catpage-MR
 
 // Define interfaces for Shoe and ShoeDifference
 interface Shoe {
-    shoeUrl: string;
-    showImage: string;
-    shoeName: string;
-    shoePrice: string;
+  shoeUrl: string;
+  showImage: string;
+  shoeName: string;
+  shoePrice: string;
 }
 
 interface ShoeDifference {
