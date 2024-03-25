@@ -2,9 +2,8 @@
   "name": "webscrapping",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
   "scripts": {
-    "dev": "ts-node index.ts",
+    "dev": "ts-node src/index.ts",
     "build": "tsc"
   },
   "keywords": [],
